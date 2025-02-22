@@ -46,10 +46,11 @@ enthusiasts.
 - 🔹 [Fleet Management](https://github.com/Mr-Dheer/Fleet-Management) – A system for tracking and managing fleets [Huawei Hackathon].
 - 🔹 [Hume API Integration](https://github.com/Mr-Dheer/Hume-API) – Integration of Hume AI for emotion recognition.
 - 🔹 [Book Recommender System](https://github.com/Mr-Dheer/Hume-API) – A book recommendation system.
-- 🔹 [Movie Recommender System](#) – A recommender system for movies based on user preferences.
-- 🔹 [Hand Gesture Control and Tracking](#) – A vision-based system for gesture tracking.
-- 🔹 [End-to-End Face Recognition Project](#) – A complete facial recognition system.
-
+- 🔹 [Movie Recommender System](https://github.com/Mr-Dheer/Movie-RecSys) – A recommender system for movies based on user preferences.
+- 🔹 [Hand Gesture Control and Tracking](https://github.com/Mr-Dheer/Hand-Gesture-Control-and-Tracking) – A vision-based system for gesture tracking.
+- 🔹 [Deep Learning Notes](https://github.com/Mr-Dheer/Deep-Learning-Notes) – Deep Learning Notes
+- 🔹 [EDA Notebooks](https://github.com/Mr-Dheer/All-Jupyter-Noteboks) – EDA Notebooks
+- 🔹 [Feature Engineering](https://github.com/Mr-Dheer/Feature-Engineering) – A guide to Feature Engieering
 
 ## 📫 Connect with Me
 

@@ -1,8 +1,12 @@
 # Hi, I'm Kavach Dheer! 👋
+# I want to  solve problems no one imagined.
+# I want to build technologies no one will be able to live without in few years.
 
 ## 🚀 About Me
 
-I am a **PhD Researcher at the University of Galway** with a deep interest in **Recommender Systems, Emotion AI, and AI-driven Education Technologies**. My research focuses on building intelligent systems that understand and adapt to user emotions, enhancing recommendation quality and user experience.
+I am a ** Researcher at the University of Galway**  and Deep learning enthusiast with a strong background in recommender systems research, LLM-based model development, and neural
+network optimization. Experienced in academic research, teaching, and end-to-end project deployment. Passionate about combining
+cutting-edge NLP and recommendation technologies to drive innovation
 
 ## 🔬 Research Interests
 
@@ -13,10 +17,11 @@ I am a **PhD Researcher at the University of Galway** with a deep interest in **
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript, SQL
-- **Libraries & Frameworks:** TensorFlow, PyTorch, scikit-learn, OpenCV, Streamlit, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, CUDA, AWS, Google Cloud
+- **Languages:** Python, Java, SQL
+- **Data Analytics** Pandas, Numpy, Matplotlib, Seaborn, OpenCV, Tableau 
+- **Libraries & Frameworks:** TensorFlow, PyTorch, scikit-learn, OpenCV, Streamlit, Flask, Hugging Face
+- **Databases:** MySQL, 
+- **Tools & Platforms:** Git, CUDA, 
 
 ## 🏗️ Projects
 

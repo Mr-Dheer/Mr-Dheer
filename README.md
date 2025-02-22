@@ -39,16 +39,17 @@ enthusiasts.
 
 ## 🏗️ Projects
 
-- 🔹 [Chrome Extension - Google Scholar](#) – A Chrome extension for enhanced Google Scholar searches.
-- 🔹 [Facial Emotion Recognition](#) – Detects facial emotions using deep learning.
-- 🔹 [EDA Using YouTube Video Data](#) – Exploratory data analysis on popular podcast channels.
-- 🔹 [Classifying Potentially Hazardous Asteroids](#) – ML & DL  model to classify hazardous asteroids on NASA dataset.
-- 🔹 [Fleet Management](#) – A system for tracking and managing fleets[ Huwei Hackathon]
-- 🔹 [Hume API Integration](#) – Integration of Hume AI for emotion recognition.
-- 🔹 [Book Recommender System](#) – A book recommendation system.
+- 🔹 [Chrome Extension - Google Scholar](https://github.com/Mr-Dheer/chrome-Extension--Google-Scholar) – A Chrome extension for enhanced Google Scholar searches.
+- 🔹 [Facial Emotion Recognition](https://github.com/Mr-Dheer/FER-Original) – Detects facial emotions using deep learning.
+- 🔹 [EDA Using YouTube Video Data](https://github.com/Mr-Dheer/EDA-Using-Youtube-Video-Data-from-Most-Popular-Podcast-Channels) – Exploratory data analysis on popular podcast channels.
+- 🔹 [Classifying Potentially Hazardous Asteroids](https://github.com/Mr-Dheer/Classifying-Potentially-Hazardous-Asteroids-) – ML & DL model to classify hazardous asteroids on NASA dataset.
+- 🔹 [Fleet Management](https://github.com/Mr-Dheer/Fleet-Management) – A system for tracking and managing fleets [Huawei Hackathon].
+- 🔹 [Hume API Integration](https://github.com/Mr-Dheer/Hume-API) – Integration of Hume AI for emotion recognition.
+- 🔹 [Book Recommender System](https://github.com/Mr-Dheer/Hume-API) – A book recommendation system.
 - 🔹 [Movie Recommender System](#) – A recommender system for movies based on user preferences.
 - 🔹 [Hand Gesture Control and Tracking](#) – A vision-based system for gesture tracking.
 - 🔹 [End-to-End Face Recognition Project](#) – A complete facial recognition system.
+
 
 ## 📫 Connect with Me
 

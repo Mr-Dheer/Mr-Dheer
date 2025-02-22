@@ -1,10 +1,9 @@
 # Hi, I'm Kavach Dheer! 👋
-# I want to  solve problems no one imagined.
-# I want to build technologies no one will be able to live without in few years.
+## I want to  solve problems no one imagined, I want to build technologies no one will be able to live without in few years.
 
 ## 🚀 About Me
 
-I am a ** Researcher at the University of Galway**  and Deep learning enthusiast with a strong background in recommender systems research, LLM-based model development, and neural
+I am a **Researcher at the University of Galway**  and  a Deep learning enthusiast with a strong background in recommender systems research, LLM-based model development, and neural
 network optimization. Experienced in academic research, teaching, and end-to-end project deployment. Passionate about combining
 cutting-edge NLP and recommendation technologies to drive innovation
 
@@ -40,10 +39,9 @@ cutting-edge NLP and recommendation technologies to drive innovation
 
 ## 📫 Connect with Me
 
-- **Email:** kavach.dheer@example.com
-- **LinkedIn:** [linkedin.com/in/kavachdheer](https://linkedin.com/in/kavachdheer)
-- **Google Scholar:** [scholar.google.com/citations?user=XXXXXX](https://scholar.google.com/)
-- **Twitter/X:** [@kavachdheer](https://twitter.com/kavachdheer)
+- **Email:** 22kavachdheer@gmail.com
+- **LinkedIn:** [linkedin.com/in/kavachdheer](https://www.linkedin.com/in/kavach-dheer-23a701200/))
+- **Google Scholar:** [scholar.google.com/citations?user=XXXXXX](https://scholar.google.com/citations?user=Kd8RzeQAAAAJ&hl=en)
 
 ---
 

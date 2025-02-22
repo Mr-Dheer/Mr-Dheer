@@ -8,6 +8,21 @@ I am a **Researcher at the University of Galway**  and  a Deep learning enthusia
 network optimization. Experienced in academic research, teaching, and end-to-end project deployment. Passionate about combining
 cutting-edge NLP and recommendation technologies to drive innovation
 
+## EDUCATION
+
+### MSc, Computing with Major in Artificial Intelligence  
+**Dublin City University**  
+**GPA:** 3.8/4.0  
+**Core Modules:** Deep Learning, Machine Learning, Reinforcement Learning, Computer Vision, Data Analytics  
+**Sep 2022 — Sep 2023**  
+
+### Bachelor of Science, Computer Science  
+**Jamia Hamdard University**  
+**GPA:** 4.00/4.00  
+**Aug 2018 — Jun 2022**  
+**Core Modules:** Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, Software Engineering, Physics, Maths  
+
+
 ## AI and Deep learning Content Writer on Medium
 - Authored technical articles on AI, Deep Learning, and Recommender Systems, covering topics such as transformers, LLMs and
 CNNs.
